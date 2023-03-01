@@ -1,0 +1,53 @@
+[
+   
+    {
+        "service_id":"01",
+        "title":" Mutton Curry ",
+        "img":"https://i.ibb.co/VpgbzB3/bm2.jpg",
+        "price":"300",
+        "description":"This dish of mutton with some thick curry is high on spices and richness. This dish is made with mutton and spices such as cloves, cinnamon, onion and garlic are used. This excellent recipe is full of the aroma and sweetness that is surely going to trigger your taste buds."
+    },
+
+    {
+        "service_id":"02",
+        "title":"  Mutton Biryani ",
+        "img":"https://i.ibb.co/L6WxnBx/Untitled-design-10-5-1600x900.jpg",
+        "price":"350",
+        "description":"Although made famous in various parts of the country, each marked with unique cooking techniques and spices; one should also try this taste in this part of the country. Filled with the rich aroma of spices and ghee, the mutton biryani is simply heaven. Juicy, tender pieces of mutton, fried with the biryani on a Tava, this yummy recipe is a must-try."
+    },
+    {
+        "service_id":"03",
+        "title":" Ilish Macher Jhol",
+        "img":"https://i.ibb.co/b7ZHnL7/Daily-Sun-04-01-10-11-2017.jpg",
+        "price":"400",
+        "description":"One of the much-favoured fishes in the region, Hilsa or ilish fish curry is something that you have got to try your hands on. The pungent smelling curry prepared with Nigella seeds and chilli to give it the required balance that makes it so perfect. You have got to try this one as it one of the staple food of West Bengal."
+    },
+    {
+        "service_id":"04",
+        "title":"Luchi Mangsho",
+        "img":"https://i.ibb.co/mRSRtmM/images-q-tbn-ANd9-Gc-Qe0fu-FHm2n9-Xd-Ru-H7nu-K4j-qvu-Ad3gp-Qa8x-A-usqp-CAU.jpg",
+        "price":"250",
+        "description":"A deep-fry delicacy, no Bengali household can ever complete a celebration without Luchis. Prepared with maida instead of the atta flour which is used to make chapattis, this delicacy looks like smaller sized, fluffy, deep-fried chapattis, with a golden glow. The crispy Luchis are a mandate for all the important small celebrations that take place in the Bengali household."
+    },
+    {
+        "service_id":"05",
+        "title":"Bhetki Macher Kaliya",
+        "img":"https://i.ibb.co/mRSRtmM/images-q-tbn-ANd9-Gc-Qe0fu-FHm2n9-Xd-Ru-H7nu-K4j-qvu-Ad3gp-Qa8x-A-usqp-CAU.jpg",
+        "price":"250",
+        "description":"Recipe of Bhetki Kaliya with potato wedges and cauliflower. Bhetki is also known as Barramundi and Asain Seabass. This recipe is easy to replicate with any white fleshed fish and basic Indian spices Calcutta Bhetki is an enigma in the form of a fish. White fleshed. Minimal smell of typical fish. Not like a hilsa that makes its presence felt all the way from the fish market. "
+    },
+    {
+        "service_id":"05",
+        "title":"Bhetki Kaliya",
+        "img":"https://i.ibb.co/L09qzpj/00100d-PORTRAIT-00100-BURST20200619171355055-COVER-01.jpg",
+        "price":"300",
+        "description":"Recipe of Bhetki Kaliya with potato wedges and cauliflower. Bhetki is also known as Barramundi and Asain Seabass. This recipe is easy to replicate with any white fleshed fish and basic Indian spices Calcutta Bhetki is an enigma in the form of a fish. White fleshed. Minimal smell of typical fish. Not like a hilsa that makes its presence felt all the way from the fish market. "
+    },
+    {
+        "service_id":"06",
+        "title":"Pabda jhaal",
+        "img":"https://i.ibb.co/CHnwX9S/Pabda-Macher-Jhol.jpg",
+        "price":"250",
+        "description":"As you are familiar with the fact that Bengal has a rich source of fresh water as well as saltwater fishes. The Pabda fish is basically the catfish that is found in the freshwater bodies abound in the region. The fish is prepared with freshly ground spices, and the thin curry is light on the stomach and also supremely tasty too. It is a big hit among the Bengalis in the region.. "
+    }
+]
